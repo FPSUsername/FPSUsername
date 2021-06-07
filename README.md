@@ -10,7 +10,7 @@
 
 ### Languages and Tools:
 
-<img align="left" alt="Altium designer" width="26px" src="https://i1.wp.com/i-loadzone.com/wp-content/uploads/2020/02/Altium-Designer.png" />
+<img align="left" alt="Altium designer" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/altium-designer/altium-designer.png" />
 <img align="left" alt="Matlab" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/matlab/matlab.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" />
