@@ -39,5 +39,5 @@
 </details>
 
 
-[website]: https://fpsusername.ml/
-[youtube]: https://youtube.com/FPSUsernameOriginal
+[website]: https://fpsusername.online/
+[youtube]: https://youtube.com/FPSUsername
